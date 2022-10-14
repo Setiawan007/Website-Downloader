@@ -30,7 +30,7 @@ Download the complete source code of any website (including all assets) 🔨.
 - `$ npm start`
 - `http://localhost:3000/'
 
-#Thanks
+# Thanks
 
 <br>
 <a href="https://sociabuzz.com/setiawan007/support" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
